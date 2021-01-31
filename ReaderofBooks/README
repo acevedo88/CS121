@@ -1,0 +1,25 @@
+# Project #4: ReaderOfBooks
+
+* Author: Alex Acevedo
+* Class: CS121 Section #3
+* Semester: Fall 2018
+
+## Overview
+
+This Java application uses a Graphic User Interface that will load a .csv file containing a list of books.  The user can select a book by pressing its button and read its contents.
+
+## Compiling and Using
+
+In order to compile this code, the user must execute the following commands:
+````
+$ javac ReaderOfBooks.Java
+````
+To run the program after its compiled:
+````
+$ java ReaderOfBooks
+`````
+To use the code, the user must type in a valid csv file.  Once uploaded the user than can select a book from the buttons created and view its text on the read panel.  The books information is displayed on top along with its current page number.
+
+## Sources used
+
+I used the tutor lab as my main source of help for this project.  I also used the JAVA API website to better understand how the getBlockIncrement() code works and how I could use it in this project.  

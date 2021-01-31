@@ -1,0 +1,27 @@
+# Project #1: Python Word Count
+
+* Author: Alex Acevedo
+* Class: CS354 Programming Languages
+* Semester: Spring 2020
+
+## Overview
+
+The Python application is used to parse in a .txt file in which it will use a Dictionary method to sort and count the words within the text.  It will remove all special characters from the text file, parse all of them to lowercase, then count the times of occurrence which will then print out the list.  The .txt file, Gettysburg-Address, is hard coded into the program and as long as the file is within the same directory of the p1.py file, it will work.
+
+## Files used
+
+Gettysburg-Address.txt
+Bill-of-Rights.txt
+sample.txt
+eula.txt
+
+## Evaluation
+
+After playing around with Python for a few hours and getting to know the syntax of it, it seemed to be an easy program to learn and use.  Compared to Java, Python is a much simpler design and user friendly.  I wrote more lines of code then needed for this project, but it was to help me better understand each step of the process and how each method used can be incorporated in other ways.  After learning what was taught the class period before the assignment was due, I noticed there are much easier tools that can be imported to finish this assignment within a couple lines.
+
+
+## Compiling and Using
+
+In order to compile and runt this code, the user must execute the following commands:
+````
+$ python3 p1.py   or   python p1.py
